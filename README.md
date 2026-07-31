@@ -41,7 +41,3 @@ http://localhost:8080/listings
 - Booking System
 - Payment Integration
 - Admin Dashboard
-
-## 👩‍💻 Author
-
-**Neelam Yadav**
